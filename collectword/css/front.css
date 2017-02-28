@@ -1,0 +1,56 @@
+body{
+    background-color: #fd746c;
+}
+.header_img{
+    width: 17rem;
+    height:12rem;
+    display: block;
+    margin: 0 auto;
+}
+.roll
+{
+    width: 100%;
+    margin-top:3rem;
+}
+.start{
+    width:50%;
+
+    background-color:#feffa7;
+    padding:3% 0;
+    text-align: center;
+    margin: 3rem auto;
+    border-radius: 10px;
+}
+.rule{
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    bottom: 3rem;
+    text-align: center;
+}
+.rule-box{
+    width: 15rem;
+    position: absolute;
+    top:6rem;
+    left:23%;
+    background-color: white;
+
+}
+.rule-box-header{
+    width:100%;
+    height:10rem;
+    background-color: #fd746c;
+}
+.box-header-img{
+    width: 90%;
+    display: block;
+    margin:0 auto;
+
+}
+.rule-box-content{
+    padding: 3% 5%;
+}
+.rule-text{
+    color: #af9c00;
+
+}
