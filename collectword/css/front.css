@@ -14,12 +14,14 @@ body{
 }
 .start{
     width:50%;
-
+    display: block;
     background-color:#feffa7;
     padding:3% 0;
     text-align: center;
     margin: 3rem auto;
     border-radius: 10px;
+    text-decoration: none;
+    color: black;
 }
 .rule{
     width: 100%;
